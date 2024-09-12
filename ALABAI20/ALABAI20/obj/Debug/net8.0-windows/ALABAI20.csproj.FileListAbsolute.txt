@@ -1,0 +1,16 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\bin\Debug\net8.0-windows\ALABAI20.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\bin\Debug\net8.0-windows\ALABAI20.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\bin\Debug\net8.0-windows\ALABAI20.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\bin\Debug\net8.0-windows\ALABAI20.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\bin\Debug\net8.0-windows\ALABAI20.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\refint\ALABAI20.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ALABAI20.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\меньшатов шаранов\ALABAI20\ALABAI20\obj\Debug\net8.0-windows\ref\ALABAI20.dll
